@@ -1,0 +1,7 @@
+Protein networks in this folder are limited to Homo sapiens.
+
+This network has been reproduced without modification from the
+[STRING database](https://string-db.org/)
+under the 
+[Creative Commons BY 4.0 Deed, Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+license.
