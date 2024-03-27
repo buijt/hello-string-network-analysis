@@ -1,7 +1,9 @@
-Protein networks in this folder are limited to Homo sapiens.
+The protein network(s) in this folder are limited to Homo sapiens.
 
-This network has been reproduced without modification from the
+Assets in this folder have been reproduced without modification from the
 [STRING database](https://string-db.org/)
 under the 
 [Creative Commons BY 4.0 Deed, Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 license.
+
+[Szklarczyk et al. Nucleic acids research 47.D1 (2018): D607-D613.2](https://www.ncbi.nlm.nih.gov/pubmed/30476243)
